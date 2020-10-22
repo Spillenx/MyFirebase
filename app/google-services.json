@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975378961874",
+    "firebase_url": "https://mykotlinfirebase-cf550.firebaseio.com",
+    "project_id": "mykotlinfirebase-cf550",
+    "storage_bucket": "mykotlinfirebase-cf550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975378961874:android:f0bed90a78b48c26bce40b",
+        "android_client_info": {
+          "package_name": "se.petersillen.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975378961874-l9795e5o4rdbcv3kd6breg4q1tt9dmjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8CD2Dv0Gru6PWbzgOglPPmrEqYnZhdAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975378961874-l9795e5o4rdbcv3kd6breg4q1tt9dmjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

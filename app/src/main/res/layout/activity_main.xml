@@ -37,6 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:ems="10"
+        android:hint="Skriv todo"
         android:inputType="textPersonName"
         app:layout_constraintEnd_toStartOf="@+id/todoBtn"
         app:layout_constraintStart_toStartOf="parent"
